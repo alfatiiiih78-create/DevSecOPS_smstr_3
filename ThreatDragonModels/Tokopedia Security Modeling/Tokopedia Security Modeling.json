@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-09-23",
+  "summary": {
+    "title": "Tokopedia Security Modeling",
+    "owner": "Abdurrahman Al  Fatih",
+    "description": "Pemodelan ancaman (STRIDE) pada arsitektur mikroservis Tokopedia (E-Commerce), mencakup Frontend, Auth Service, Order Service, Payment Gateway pihak ketiga, dan Database PostgreSQL yang dikelola melalui API Gateway dengan batasan kepercayaan antara Internet, DMZ, dan Internal Network.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "April Rusianto, M.kom",
+    "threatTop": 0
+  }
+}
